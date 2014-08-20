@@ -1,4 +1,4 @@
-﻿Imports PackageIO
+Imports PackageIO
 Imports System
 
 Public Class Charlie_Murder_Basic_SE
